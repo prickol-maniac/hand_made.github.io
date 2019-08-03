@@ -1,1 +1,2 @@
-# hand_made.github.io
+# prickol-maniac
+.github.io
