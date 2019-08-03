@@ -1,2 +1,1 @@
-# prickol-maniac
-.github.io
+# prickol-maniac.github.io
